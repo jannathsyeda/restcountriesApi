@@ -1,0 +1,3 @@
+site: https://restcountries.eu/
+
+console then 3rd network then check api txt formet
